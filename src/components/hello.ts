@@ -1,6 +1,4 @@
 import React, { Fragment } from 'react'
 
-function Hello() {
-  return <div>1111</div>
-}
+function Hello() {}
 export default Hello
