@@ -1,0 +1,7 @@
+{
+	"帖子": [
+		{ " id ": 1, " title ": " json-server ", " author ": " typicode " }
+	],
+	"评论": [{ " id ": 1, " body ": "一些评论", " postId ": 1 }],
+	"个人资料": { "姓名": "类型代码" }
+}
