@@ -1,7 +1,72 @@
 {
-	"帖子": [
-		{ " id ": 1, " title ": " json-server ", " author ": " typicode " }
-	],
-	"评论": [{ " id ": 1, " body ": "一些评论", " postId ": 1 }],
-	"个人资料": { "姓名": "类型代码" }
+  "users": [
+    {
+      "id": "1",
+      "name": "陈理鹏"
+    },
+    {
+      "id": "2",
+      "name": "李慧星"
+    },
+    {
+      "id": "3",
+      "name": "王岩"
+    },
+    {
+      "id": "4",
+      "name": "徐辉"
+    },
+    {
+      "id": "5",
+      "name": "李文博"
+    },
+    {
+      "id": "6",
+      "name": "骚有"
+    }
+  ],
+  "list": [
+    {
+      "id": "1",
+      "name": "陈理鹏",
+      "personId": "1",
+      "organization": "大神",
+      "created": "15603303461"
+    },
+    {
+      "id": "2",
+      "name": "李慧星",
+      "personId": "2",
+      "organization": "女神",
+      "created": "13179795390"
+    },
+    {
+      "id": "3",
+      "name": "王岩",
+      "personId": "3",
+      "organization": "辣鸡",
+      "created": "15603362906"
+    },
+    {
+      "id": "4",
+      "name": "徐辉",
+      "personId": "4",
+      "organization": "小垃圾",
+      "created": "17831182174"
+    },
+    {
+      "id": "5",
+      "name": "李文博",
+      "personId": "5",
+      "organization": "骚货",
+      "created": "13201165148"
+    },
+    {
+      "id": "6",
+      "name": "骚有",
+      "personId": "6",
+      "organization": "大垃圾",
+      "created": "13201565148"
+    }
+  ]
 }

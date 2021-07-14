@@ -1,12 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
+import {FromTable} from './components/index'
 import './App.css';
-
 function App() {
   return (
     <div className="App">
-     
-     初始化项目分支
+     <FromTable />
     </div>
   );
 }
